@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **samruddhichavan05@gmail.com**
 
-- ⚡ Fun fact **I think I m the only one Masterpiece**
+- ⚡ Fun fact **Moons can have moons, and they are called "moonmoons"**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
