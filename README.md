@@ -6,8 +6,10 @@
    <div align="center">
  <img src="https://readme-typing-svg.herokuapp.com/?lines=Aspiring+Full+Stack+Web+Developer;An+Enthusiast;Life-Long+Learner&color=cyan&center=true" />
 </div>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sam202003&label=Profile%20views&color=0e75b6&style=flat" alt="sam202003" /> </p>
-    <p  align="left"> <img src="https://miro.medium.com/max/1400/1*qdAW1TjCN57h1lbuuzvchg.gif" alt="gif"/></p>
+ <div align="center">
+<img src="https://miro.medium.com/max/1400/1*qdAW1TjCN57h1lbuuzvchg.gif" alt="gif"/>
+</div>
+    
 
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
@@ -19,16 +21,17 @@
 - 📫 How to reach me **samruddhichavan05@gmail.com**
 
 - ⚡ Fun fact **Moons can have moons, and they are called "moonmoons"**
+    <p align="left"> <img src="https://komarev.com/ghpvc/?username=sam202003&label=Profile%20views&color=0e75b6&style=flat" alt="sam202003" /> </p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
 <a href="https://codepen.io/@csam202003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@csam202003" height="30" width="40" /></a>
 <a href="https://codesandbox.com/samruddhi chavan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="samruddhi chavan" height="30" width="40" /></a>
 <a href="https://fb.com/samruddhi chavan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="samruddhi chavan" height="30" width="40" /></a>
 <a href="https://instagram.com/@luvlite" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@luvlite" height="30" width="40" /></a>
 </p>
     <h3>Tropies:</h3>
-<p align="left" > <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sam202003" alt="sam202003" /></a> </p> 
+<p align="center" > <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sam202003" alt="sam202003" /></a> </p> 
 <h3 align="left">Languages and Tools:</h3>
  <div align="center"><h3 align="center">Frontend</h3>
    <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" align="center" alt="html5">
@@ -67,9 +70,9 @@
 <br/>
 
 <h3>Github Stats:</h3>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sam202003&show_icons=true&locale=en" alt="sam202003" /></p> 
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sam202003&show_icons=true&locale=en" alt="sam202003" /></p> 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sam202003&" alt="sam202003" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sam202003&" alt="sam202003" /></p>
 <p align="center">
   <img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg">
   </p>
