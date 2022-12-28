@@ -7,7 +7,7 @@
  <img src="https://readme-typing-svg.herokuapp.com/?lines=Aspiring+Full+Stack+Web+Developer;An+Enthusiast;Life-Long+Learner&color=cyan&center=true" />
 </div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sam202003&label=Profile%20views&color=0e75b6&style=flat" alt="sam202003" /> </p>
-
+    <p  align="left"> <img src="https://miro.medium.com/max/1400/1*qdAW1TjCN57h1lbuuzvchg.gif" alt="gif"/></p>
 
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
