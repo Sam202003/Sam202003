@@ -6,7 +6,7 @@
    <div align="center">
  <img src="https://readme-typing-svg.herokuapp.com/?lines=Aspiring+Full+Stack+Web+Developer;An+Enthusiast;Life-Long+Learner&color=cyan&center=true" />
 </div>
- <div align="center">
+ <div align="center" width="60%">
 <img src="https://miro.medium.com/max/1400/1*qdAW1TjCN57h1lbuuzvchg.gif" alt="gif"/>
 </div>
     
