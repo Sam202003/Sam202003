@@ -6,10 +6,6 @@
    <div align="center">
  <img src="https://readme-typing-svg.herokuapp.com/?lines=Aspiring+Full+Stack+Web+Developer;An+Enthusiast;Life-Long+Learner&color=cyan&center=true" />
 </div>
-
-
-<img src="https://images.lemonly.com/wp-content/uploads/2018/08/07150313/Homebase_Thumb_v01.gif" alt="gif"/>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sam202003&label=Profile%20views&color=0e75b6&style=flat" alt="sam202003" /> </p>
 
 
