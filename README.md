@@ -70,9 +70,14 @@
 <br/>
 
 <h3>Github Stats:</h3>
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sam202003&show_icons=true&locale=en" alt="sam202003" /></p> 
+
+
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sam202003&show_icons=true&locale=en" alt="sam202003" /></p> 
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sam202003&" alt="sam202003" /></p>
+
+
+
 <p align="center">
   <img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg">
   </p>
