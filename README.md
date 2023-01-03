@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Samruddhi Chavan</h1>
-<p align="center">
+<p align="center" height="300px">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
    <div align="center">
  <img src="https://readme-typing-svg.herokuapp.com/?lines=Aspiring+Full+Stack+Web+Developer;An+Enthusiast;Life-Long+Learner&color=cyan&center=true" />
