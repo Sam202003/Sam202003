@@ -75,7 +75,9 @@
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Sam202003&show_icons=true&locale=en" alt="sam202003" /></p> 
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sam202003" alt="sam202003" /></p>
-
+<p align="center">
+  <img  src="https://raw.githubusercontent.com/Sam202003/Sam202003/output/github-contribution-grid-snake.svg">
+  </p>
 
 
 <p align="center">
