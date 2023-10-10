@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **samruddhichavan05@gmail.com**
 - portfolio: https://Sam202003.github.io/
-- ⚡ Fun fact **Moons can have moons, and they are called "moonmoons"**
+- ⚡ Fun fact **The Great Wall of China is Not Visible from Space**
     <p align="left"> <img src="https://komarev.com/ghpvc/?username=sam202003&label=Profile%20views&color=0e75b6&style=flat" alt="sam202003" /> </p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 <h3 align="left">Connect with me:</h3>
