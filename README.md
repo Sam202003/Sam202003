@@ -71,9 +71,10 @@
 
 <h3>Github Stats:</h3>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Sam202003&show_icons=true&locale=en" alt="sam202003" /></p> 
+| ![Samruddhi's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Sam202003&hide_border=true&hide_border=true) | ![Samruddhi's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sam202003&theme=swift) |
+| :---: | :---: |
+ <p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sam202003&layout=compact&exclude_repo=Lybrate-Website-Clone-Version-2.0,Lybrate-Website-Clone,Adidas-Clone&hide=Shell&border_radius=0" alt="Sam202003" /></p>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sam202003" alt="sam202003" /></p>
 <p align="center">
 <!--   <img  src="https://raw.githubusercontent.com/sam202003/sam202003/output/github-contribution-grid-snake.svg">
   </p> -->
