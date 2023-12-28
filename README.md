@@ -16,7 +16,7 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 💬 Ask me about **HTML, CSS, JavaScript, React, Next.Js, Flutter**
+- 💬 Ask me about **HTML, CSS, JavaScript, React, Next.Js, Flutter, Tailwind CSS, ShadCN UI**
 
 - 📫 How to reach me **samruddhichavan05@gmail.com**
 - portfolio: **https://Sam202003.github.io/**
