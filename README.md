@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hi 👋, I'm Samruddhi Chavan</h1>
+<h1 align="center">Hi 👋, I'm  Samruddhi Chavan</h1>
 <p align="center" height="300px">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
    <div align="center">
@@ -32,8 +32,8 @@
 </p>
     <h3>Tropies: </h3>
 <p align="center" > <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sam202003" alt="sam202003" /></a> </p> 
-<h3 align="left">Languages and Tools:</h3>
- <div align="center"><h3 align="center">Frontend</h3>
+<h3 align="left">Languages & Tools:</h3>
+ <div align="center"><h3 align="center"> Frontend </h3>
    <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" align="center" alt="html5">
    <img src = "https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" align="center" alt="css3">
    <img src ="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" align="center" alt="javascript">
@@ -45,7 +45,7 @@
 
  <br/>
 
- <div align="center"><h3 align="center">Backend</h3> 
+ <div align="center"><h3 align="center"> Backend </h3> 
    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" align="center" alt="nodejs" />
    <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" align="center" alt="expressjs"/>
    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" align="center" alt="mongodb"/>
@@ -53,7 +53,7 @@
 
  <br/>
 
-<div align="center"><h3 align="center">Tools</h3> 
+<div align="center"><h3 align="center"> Tools </h3> 
    <img src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white" align="center" alt="git"/>
    <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" align="center" alt="git"/>
    <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=whit" align="center" alt="git"/>
@@ -69,7 +69,7 @@
 
 <br/>
 
-<h3>Github Stats:</h3>
+<h3> Github Stats: </h3>
 
 | ![Samruddhi's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Sam202003&hide_border=true&hide_border=true) | ![Samruddhi's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sam202003&theme=swift) |
 | :---: | :---: |
