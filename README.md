@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hi 👋, I'm  Samruddhi Chavan </h1>
+<h1 align="center">Hi 👋,I'm Samruddhi Chavan </h1>
 <p align="center" height="300px">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
    <div align="center">
@@ -45,7 +45,7 @@
 
  <br/>
 
- <div align="center"><h3 align="center"> Backend </h3> 
+ <div align="center"><h3 align="center">Backend</h3> 
    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" align="center" alt="nodejs" />
    <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" align="center" alt="expressjs"/>
    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" align="center" alt="mongodb"/>
@@ -53,7 +53,7 @@
 
  <br/>
 
-<div align="center"><h3 align="center"> Tools </h3> 
+<div align="center"><h3 align="center">Tools</h3> 
    <img src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white" align="center" alt="git"/>
    <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" align="center" alt="git"/>
    <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=whit" align="center" alt="git"/>
