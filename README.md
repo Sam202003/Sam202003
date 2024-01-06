@@ -27,7 +27,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
-<a href="https://codepen.io/@csam202003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@csam202003" height="30" width="40" /></a>
+<a href="https://codepen.io/@csam202003" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@csam202003" height="30" width="40" /></a>
 <a href="https://codesandbox.com/samruddhi chavan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="samruddhi chavan" height="30" width="40"/></a>
 <a href="https://fb.com/samruddhi chavan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="samruddhi chavan" height="30" width="40" /></a>
 <a href="https://instagram.com/_luvlite_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@luvlite" height="30" width="40" /></a>
