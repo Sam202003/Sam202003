@@ -5,7 +5,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg" >
    
 <div align="center">
- <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Web+Developer;MERN+Stack+Developer;Web+Developer;React+Developer;An+Enthusiat;Quick+learner&color=cyan&center=true" />
+ <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Web+Developer;MERN+Stack+Developer;Web+Developer;React+Developer;Flutter+Developer;An+Enthusiat;Quick+learner&color=cyan&center=true" />
 </div>
     
  <div align="center">
