@@ -35,7 +35,7 @@
 </p>
     <h3>Tropies: </h3>
 <p align="center" > <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sam202003" alt="sam202003" /></a> </p> 
-<h3 align="left">Languages & Tools:</h3>
+<h3 align="left">Languages & Tools: </h3>
  <div align="center"><h3 align="center"> Frontend </h3>
    <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" align="center" alt="html5">
    <img src = "https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" align="center" alt="css3">
