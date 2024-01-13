@@ -9,7 +9,7 @@
 </div>
     
  <div align="center">
-<img width="600" src="https://miro.medium.com/max/1400/1*qdAW1TjCN57h1lbuuzvchg.gif" alt="gif" />
+<img width="600" src="https://miro.medium.com/max/1400/1*qdAW1TjCN57h1lbuuzvchg.gif" alt="gif"/>
 </div>
     
 
